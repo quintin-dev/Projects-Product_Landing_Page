@@ -24,10 +24,6 @@ This project is a landing page for the Samsung Galaxy Watch. This is one of the 
 -   Google Fonts
 -   Scroll bar styling
 
-## Live Demo
-
-[Product Landing Page](https://quintin-dev.github.io/Projects-Product_Landing_Page/)
-
 ## How To Contribute
 
 Contribute to this project in the following ways:
